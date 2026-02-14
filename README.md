@@ -1,3 +1,8 @@
+Proyecto Final Inteligencia Artificial 3er Año Informatica
+UPR Hermanos Saiz Montes de Oca
+Alumno: Jose Carlos Ledesma Linares
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Introducción->
 La diabetes es una enfermedad crónica que afecta a millones de personas en todo el mundo, y su detección temprana es crucial para prevenir complicaciones graves. El objetivo de este proyecto es desarrollar un sistema de Inteligencia Artificial capaz de predecir si un paciente tiene diabetes basándose en variables médicas diagnósticas.
 
